@@ -8,7 +8,7 @@ Wardi , or also  known as Electronic Speed Controller is a device designed to co
 
 
 ## What is this Project?
-Wardi, also known as Electronic Speed  Controller is a device that is used to operate Brushless DC motors. IT contains Mosftes which is used to controll the 3 phase brushless Dc motor. For this Specific ESC I have used 2 mosfte per phase meaning there are total 24 mosftes. 
+Wardi, also known as Electronic Speed  Controller is a device that is used to operate Brushless DC motors. IT contains mosfets which is used to controll the 3 phase brushless Dc motor. For this Specific ESC I have used 2 mosfet per phase meaning there are total 24 mosftes. 
 
 
 - BSZ040N06LS5 mosfets
