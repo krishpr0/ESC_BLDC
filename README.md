@@ -52,6 +52,8 @@ And i wanted a bit more powerful one my Motors were of 80A and i couldnt find an
 ## PCB
 <img width="1070" height="612" alt="Screenshot 2026-06-14 114752" src="https://github.com/user-attachments/assets/b85a8e5d-6d84-4fff-bf78-99747b523205" />
 <img width="696" height="493" alt="Screenshot 2026-06-14 114828" src="https://github.com/user-attachments/assets/c2e1eb0e-c8b6-49e1-aa5d-1d01bc174f6f" />
+<img width="527" height="518" alt="Screenshot 2026-06-14 002752" src="https://github.com/user-attachments/assets/901a0382-9993-40fa-b6f6-3bffa1d840bc" />
+
 
 
 # BOM
